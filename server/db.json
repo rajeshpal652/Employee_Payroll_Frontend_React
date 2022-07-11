@@ -1,0 +1,32 @@
+{
+    "employee": [
+        {
+            "name": "Rajesh",
+            "department": [
+                "HR"
+            ],
+            "gender": "male",
+            "salary": "30000",
+            "startDate": "1 Jan 2020",
+            "notes": "",
+            "id": "001",
+            "profileUrl": "../../assets/profile-images/Ellipse -1.png"
+        },
+
+        {
+            "name": "Debi",
+            "department": [
+                "Engineer"
+            ],
+            "gender": "female",
+            "salary": "50000",
+            "startDate": "2 Jan 2020",
+            "notes": "",
+            "id": "002",
+            "profileUrl": "../../assets/profile-images/Ellipse -2.png"
+        }
+        
+
+
+    ]
+}
